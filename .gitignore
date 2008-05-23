@@ -1,0 +1,6 @@
+www/temp/*
+www/dot/*
+www/graph/*
+www/thumbnail/*
+lib/const.rb
+
